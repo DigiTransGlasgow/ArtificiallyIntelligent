@@ -56,9 +56,9 @@ The text data used to train Britbot was scraped from various websites featuring 
 **References:**
 <hr>
 <ol>
-<li id="fn1">http://www.sciencemag.org/news/2017/06/when-will-alexa-google-assistant-and-other-chatbots-finally-talk-us-real-people<a href="#fnref1">↩</a>
-<li id="fn2">In 'Talking on the water: Conversations about Nature and     Creativity', J. White, Trinity University Press 2016.<a href="#fnref2">↩</a>
-<li id="fn3">'Semantics derived automatically from language corpora contain     human-like biases' A. Caliskan et al, Science, 2017.<a href="#fnref3">↩</a>
-<li id="fn4">'In The Break: The Aesthetics Of The Black Radical Tradition', F.     Moten, University of Minnisota Press, 2003.<a href="#fnref4">↩</a>
-<li id="fn5">I like to think of this as the garden depicted in The Garden of     Forking Paths (Penguin Modern), J L Borges, Penguin Classics, 2018.<a href="#fnref5">↩</a>
+<li id="fn1">http://www.sciencemag.org/news/2017/06/when-will-alexa-google-assistant-and-other-chatbots-finally-talk-us-real-people<a href="#fnref1">↩</a></li>
+<li id="fn2">In 'Talking on the water: Conversations about Nature and     Creativity', J. White, Trinity University Press 2016.<a href="#fnref2">↩</a></li>
+<li id="fn3">'Semantics derived automatically from language corpora contain     human-like biases' A. Caliskan et al, Science, 2017.<a href="#fnref3">↩</a></li>
+<li id="fn4">'In The Break: The Aesthetics Of The Black Radical Tradition', F.     Moten, University of Minnisota Press, 2003.<a href="#fnref4">↩</a></li>
+<li id="fn5">I like to think of this as the garden depicted in The Garden of     Forking Paths (Penguin Modern), J L Borges, Penguin Classics, 2018.<a href="#fnref5">↩</a></li>
 </ol>

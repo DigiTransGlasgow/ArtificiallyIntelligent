@@ -29,10 +29,10 @@ The process of collecting feminist data for Feminist Data Set is an important de
 **References:**
 <hr>
 <ol>
-<li id="fn1">https://www.theguardian.com/technology/2018/jul/06/artificial-intelligence-ai-humans-bots-tech-companies<a href="#fnref1">↩</a>
-<li id="fn2">https://noranahidkhan.com/2017/03/07/mapping-the-hidden/<a href="#fnref2">↩</a>
-<li id="fn3">https://hyperallergic.com/393824/how-a-chatbot-became-a-conceptual-poet/<a href="#fnref3">↩</a>
-<li id="fn4">https://americanartist.us/sandy-speaks/<a href="#fnref4">↩</a>	
+<li id="fn1">https://www.theguardian.com/technology/2018/jul/06/artificial-intelligence-ai-humans-bots-tech-companies<a href="#fnref1">↩</a></li>
+<li id="fn2">https://noranahidkhan.com/2017/03/07/mapping-the-hidden/<a href="#fnref2">↩</a></li>
+<li id="fn3">https://hyperallergic.com/393824/how-a-chatbot-became-a-conceptual-poet/<a href="#fnref3">↩</a></li>
+<li id="fn4">https://americanartist.us/sandy-speaks/<a href="#fnref4">↩</a></li>	
 </ol>
 
 

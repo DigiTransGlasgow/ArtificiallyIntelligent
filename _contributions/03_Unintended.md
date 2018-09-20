@@ -142,16 +142,16 @@ KB: I agree that art offers a potential space to rethink, challenge and remake. 
 **References:**
 <hr>
 <ol>
-<li id="fn1">Marshall McLuhan, *The Gutenberg Galaxy: The Making of Typographic Man *(1962) University of Toronto Press.<a href="#fnref1">↩</a>
-<li id="fn2"><https://www.geekwire.com/2018/amazon-wins-patents-wireless-wristbands-track-warehouse-workers/> accessed June 2018<a href="#fnref2">↩</a>
-<li id="fn3"><https://en.wikipedia.org/wiki/Digerati><a href="#fnref3">↩</a>
-<li id="fn4">Hito Steyerl and Kate Crawford, *Data Streams* (2017), The New     Inquiry *<https://thenewinquiry.com/data-streams/>* accessed June 2018<a href="#fnref4">↩</a>
-<li id="fn5"><https://openai.com/> accessed June 2018<a href="#fnref5">↩</a>
-<li id="fn6"><https://www.furtherfield.org/events/are-we-all-addicts-now/> accessed June 2018<a href="#fnref6">↩</a>
-<li id="fn7"><https://www.theguardian.com/technology/2017/nov/09/facebook-sean-parker-vulnerability-brain-psychology> accessed May 2018<a href="#fnref7">↩</a>
-<li id="fn8"><https://www.theguardian.com/technology/2017/oct/05/smartphone-addiction-silicon-valley-dystopia>     accessed May 2018<a href="#fnref8">↩</a>
-<li id="fn9"><https://variety.com/2018/digital/news/facebook-stock-mark-zuckerberg-news-feed-1202662782/>     accessed June 2018<a href="#fnref9">↩</a>
-<li id="fn10">Seb Franklin, *Control -- Digitality as Cultural Logic* (2015) MIT Press<a href="#fnref10">↩</a>
-<li id="fn11">Richard Barbrook and Andy Cameron, *The Californian Ideology* (1995) MUTE magazine <http://www.metamute.org/editorial/articles/californian-ideology> accessed June 2018<a href="#fnref11">↩</a>
+<li id="fn1">Marshall McLuhan, *The Gutenberg Galaxy: The Making of Typographic Man *(1962) University of Toronto Press.<a href="#fnref1">↩</a></li>
+<li id="fn2">https://www.geekwire.com/2018/amazon-wins-patents-wireless-wristbands-track-warehouse-workers/> accessed June 2018<a href="#fnref2">↩</a></li>
+<li id="fn3">https://en.wikipedia.org/wiki/Digerati<a href="#fnref3">↩</a></li>
+<li id="fn4">Hito Steyerl and Kate Crawford, *Data Streams* (2017), The New     Inquiry *https://thenewinquiry.com/data-streams/* accessed June 2018<a href="#fnref4">↩</a></li>
+<li id="fn5">https://openai.com/> accessed June 2018<a href="#fnref5">↩</a></li>
+<li id="fn6">https://www.furtherfield.org/events/are-we-all-addicts-now/ accessed June 2018<a href="#fnref6">↩</a></li>
+<li id="fn7">https://www.theguardian.com/technology/2017/nov/09/facebook-sean-parker-vulnerability-brain-psychology accessed May 2018<a href="#fnref7">↩</a></li>
+<li id="fn8">https://www.theguardian.com/technology/2017/oct/05/smartphone-addiction-silicon-valley-dystopia     accessed May 2018<a href="#fnref8">↩</a></li>
+<li id="fn9">https://variety.com/2018/digital/news/facebook-stock-mark-zuckerberg-news-feed-1202662782/     accessed June 2018<a href="#fnref9">↩</a></li>
+<li id="fn10">Seb Franklin, *Control -- Digitality as Cultural Logic* (2015) MIT Press<a href="#fnref10">↩</a></li>
+<li id="fn11">Richard Barbrook and Andy Cameron, *The Californian Ideology* (1995) MUTE magazine http://www.metamute.org/editorial/articles/californian-ideology> accessed June 2018<a href="#fnref11">↩</a></li>
 </ol>
 
