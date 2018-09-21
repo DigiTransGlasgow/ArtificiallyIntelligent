@@ -12,10 +12,10 @@ Chatbots are defined by their limitations to hold flexible conversations and hav
 
 Google Duplex, which works well in online demos, is rigid, being trained for a narrow set of specialist conversations such as booking a table at a restaurant. And while the conversations with popular online or app-based chatbots like Cleverbot or Replika are non-directed and make grammatical sense, the level of conversation is superficial.
 
-```
-![](media/image4.jpg){width="4.390625546806649in" height="4.849043088363954in"}
+
+![](Images/15_Chatterbots/15_Chatterbots_Image1.jpg)
 Dialogue from www.cleverbot.com
-```
+
 
 In my own artistic research, I have tested deep learning chatbots deployed over the web. In doing so, I have noticed a trade-off between accuracy of a chatbots response and the time it takes before a chatbot replies to a user. In other words, it takes a non-insignificant amount of time for a deep learning chatbot to respond with a grammatically correct statement, which in itself occurs probabilistically. The delay and apparent randomness in meaning and grammar make it challenging to keep people, who are used to instant, easily understandable information, engaged. As an artist, I am very interested in the limitations of machine chat as a creative medium. More about my work later.
 
@@ -39,10 +39,7 @@ Keeping this in mind, another way of conceptualising the design of chatterbots, 
 
 Here for brevity, I turn solely to the concept of diffraction introduced by Harroway and subsequently developed by Barad. Diffraction is a physical process by which a seemingly coherent signal consisting of light or matter splits into several beams travelling in different directions. Diffraction stands up to reflection, by mapping where the effects of differences occur. Reflection displaces the existing, whereas diffractions (re)imagines and (de)constructs. This *material* dispersion is contingent on the constituent components of the signal (including any noise) and the apparatus.
 
-```
-![](media/image3.jpg){width="4.166666666666667in" height="2.7708333333333335in"}
-```
-
+![](Images/15_Chatterbots/15_Chatterbots_Image2.jpg)
 Apparatus diffracts white light into the components of the visible spectrum.
 
 Chatterbots may diffract canonical histories and stories into strange new forms. For instance a deep learning algorithm generating text at character level, trained on, for instance, a data set of speeches by western world leaders, might be expected to replicate typical western rhetoric. Whereas by experimenting with the parameters of the neural net and the quality or quantity of the data set, 'good noise' may form the signals, diffracting a canonical history into multiple worlds[<sup>5</sup>](#fn5)<a id="fnref5"></a>.
