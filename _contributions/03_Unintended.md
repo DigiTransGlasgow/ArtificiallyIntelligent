@@ -39,11 +39,8 @@ KB: I was interested to get a glimpse of your new complex cryptic crossword solv
 
 One of the things I'd like explore in this conversation is some of the complexities around the way AI (Artificial Intelligence) is discussed within wider social discourse. As I was walking through the park this morning, I was thinking about this supposedly natural environment, which in actuality is a very artificial one that's heavily designed. 
 
-```
-\[IMAGE
-MARKER: Siri Screen I (2018) Katriona Beales, oil pastel on cartridge
-paper, A4 \]
-``` 
+![](Images/03_UnintendedBias/03_Unintendedbias_Image1.png)
+(2018) Katriona Beales, oil pastel on cartridge paper, A4 
 
 I wonder about our understanding about what's natural and what's artificial within the systems that are around us. There's always a fear of emerging technologies and the implications of them. What are your reflections on this?
 
@@ -59,11 +56,11 @@ WT-P: Amazon acquired a business called Kiva Systems which has resulted in some 
 
 KB: Because robots are cheaper than people... 
 
-```
-\[IMAGE MARKER: Foxconn
-replaces 60,000 workers with robots (2017-18) Katriona Beales, found
-image digitally manipulated\]
-```
+
+![](Images/03_UnintendedBias/03_Unintendedbias_Image2.png)
+Foxconn replaces 60,000 workers with robots (2017-18) Katriona Beales, found
+image digitally manipulated
+
 
 WT-P: They're cheaper than people, they're potentially more reliable than people, they're potentially faster than people...
 
