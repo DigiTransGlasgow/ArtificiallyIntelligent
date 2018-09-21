@@ -19,6 +19,10 @@ In the film WarGames (John Badham, 1983), a computer that controls the military 
 
 One of the main characteristics of this film is that it portrays a moment in which the implementation of cybernetics for its original purpose (war industry and military strategy) connects and bonds with the following expansion it experimented among the commercial and home industries. However, it also focuses on another breaking point: the moment in which a computer is given power and control over key decisions, in the case of this film leading to World War III.
 
+![](Images/06_Pong/06_Pong_Image1.JPG)
+
+![](Images/06_Pong/06_Pong_Image2.JPG)
+
 With cybernetics becoming increasingly popular, a new connection between human logic and IT comes into being; one that encourages us to question the way in which we perceive the world and form our conscience. Even in one of the dialogues the programmer addresses the General of military operations to ask him to think like a human and not like a machine.
 
 The programmer probably appeals to a specific human trait: the benefit of the doubt; that is to say, the fact that the General's conscience might be masked under logic (associated to the computer), without him being aware of it.
