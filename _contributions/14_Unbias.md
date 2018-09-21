@@ -8,16 +8,6 @@ layout: default
 ## Helena Webb,
 **University of Oxford**
 
-```
-![](media/image1.jpg){width="1.7716535433070866in"
-height="0.6064063867016622in"}
-![workshop%20image.jpg](media/image2.jpeg){width="6.305555555555555in"
-height="3.0972222222222223in"}
-Mind map produced by young people at an UnBias workshop exploring
-the everyday ecology of apps, services, the potential for bias and
-its effects.
-```
-
 Most of us now spend a large proportion of our lives online. In the UK, 88% of adults have Internet access and spend up to one day a week online -- accessing sites at work, at home and whilst on the move. The most popular celebrities on social media have over 100 million followers and increasing numbers of users, in particular young people, access news information via social media rather than newspapers or television programmes. More and more, we rely on a small number of very powerful platforms to access the kinds of online content we want to see. According to Facebook, 1.45 billion Internet users log on to the social network at least once a day and 2.2 billion are active at least once a month. Google processes on average 40 000 search queries per second, and a total of 3.5 billion queries every day. Given our high use of, and reliance on, the Internet it is very important that we keep asking questions to make sure that the online sites we access, and the platforms that drive them, are acting in our best interests.
 
 Over the last few years there have been increasing concerns over the impacts of automated decision making on our online experiences. Whenever we browse online, algorithms shape what we see by filtering and sometimes personalising content. For instance, when we enter a query into an online search engine, algorithmic processes determine the results we see and the order of those results. Similarly, when we look on Facebook and other social networks, personalisation algorithms operate to determine the advertisements and posts we see in our individual feeds. These processes can be very useful to us; they save us immense amounts of time by leading us straight to content that we are likely to find relevant and interesting.
@@ -33,6 +23,10 @@ However, there are also concerns that these processes can lead to outcomes that 
 -   Controversies have also arisen over the results of queries into search engines. For instance, a search for images of 'female football fans', 'unprofessional hairstyles' or '3 black teenagers' might lead to results that reflect common, derogatory stereotypes of gender and race. Google and other search platforms point out that these results occur because the online content their algorithms work on is already skewed, rather than the algorithms themselves being biased. Nevertheless, given the massive number of searches made by online users every day, there is a risk that these kinds of results inadvertently reinforce societal prejudices.
 
 ### What is the UnBias project all about?
+
+
+![](Images/14_UnBias/14_UnBias_Image1.jpg)
+Mind map produced by young people at an UnBias workshop exploring the everyday ecology of apps, services, the potential for bias and its effects.
 
 Our UnBias project explores these various concerns arising from the contemporary online prevalence of algorithms. Our research team combines social scientists and computer scientists from the Universities of Oxford, Nottingham and Edinburgh. The aim of our project is to explore the user experience of algorithm driven Internet platforms and the processes of algorithm design. We recognise that algorithmic prevalence is an ethical issue and ask how we can judge the trustworthiness and fairness of systems that rely heavily on algorithms. Our research activities include:
 
