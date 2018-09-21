@@ -10,9 +10,9 @@ layout: default
 ** London College of Communication - University of the Arts London
 ** www.lucadamiani-art.com
 
-```
-(Please see PDF for layout. Insert Image : LucaMDamiani\_Image\_01.jpg)
-```
+![](Images/20_DesigningMind/20_DesigningMind_Image1.jpg)
+ “My Aspie with Tinnitus + Hyperacusis”, Luca M. Damiani, 2018.
+
 
 ### Introduction
 
@@ -30,10 +30,7 @@ And so I have created a variety of media design outputs connected to my experien
 
 ### My Aspie with Tinnitus + Hyperacusis
 
-```
-(Please see PDF for layout. Insert Image : LucaMDamiani\_Image\_01.jpg)
-```
-
+![](Images/20_DesigningMind/20_DesigningMind_Image2.jpg)
 *"My Aspie with Tinnitus + Hyperacusis" (composition of frames) -- Luca M Damiani - 2018*
 
 "My Aspie with Tinnitus + Hyperacusis" is a video-art piece [https://vimeo.com/272751962](https://vimeo.com/272751962), created in May/June 2018. It is part of my ongoing art therapeutic path-flow in connection to suffering from tinnitus (inner brain developed sounds) and hyperacusis (hypersensitivity to outer sounds), also considering its effect on my Asperger's. In this piece I try to reflect on specific patterns of sound processing and related/connected responses I experience of stress, anxiety, mood overload, emotional ups and downs. This piece is also a way for me to learn more about the conditions, cope with related stressful situations, balance and observe my reactions, and try to look at everything from the outside. It is part of a process and of a series of different works. The visual aims to explore the action of sound in affecting the overload of the brain. However, as hyperacusis builds up, an instinctual reaction is to cut sounds off with hearing protections, wearing sound-filtered ear-plugs, using additional sound-removal headphones, covering the ears in all possible ways. By doing this however, tinnitus kicks in with more strength, complicating the balance and solution. With this piece I am visually recalling the sound experience but filtering it in silence, focusing on movement and interpreting neuro reactions of central nervous system, trying to reflect the speed of changing patterns, avoiding and stressing about noisy situations, filtering inputs of sound and movement, repetitions of 'cutting' and pain in the hearing. All this requires a constant balancing of situations and with this art-piece I tried to visualise my reaction to it and how that affects my mental flow at different moments and stages. Indeed the artwork started, at first, as an artistic-therapeutic response; but it then felt appropriate to use it for my research and artistic development, reflecting critically on it and using it to prompt and allow further discussions. This, in itself, also helps to keep a healthy development within cognitive psychology in order to learn more about the condition and its patterns and so learning how to avoid entering into a tunnel of negative thoughts. The overall artwork is divided in several stages - each stage represents moments of calm, moments of distress, moments of overload, moments of building-up, moments of channeling, moments of pain. I worked on this piece constructing and re-constructing a narrative that would connect to my own observation of the brain focus, data processing, first overloads, re-focus, and then up to higher overload mode. During various weeks I have collected the data and then processed these inputs in geometrical forms, reflecting an intricate pattern of moments with a timeline that can show different neurological responses and feelings of brain processing of sound.
