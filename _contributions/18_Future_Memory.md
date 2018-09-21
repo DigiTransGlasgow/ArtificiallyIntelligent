@@ -45,9 +45,7 @@ I read online that this is perfectly normal. Together with other skills we once 
 
 In an era dominated by 'the lack of a robust conceptual framework' (Greenfield, 2006) and a culture that prefers to skim the surface of short message communication, often caring more to achieve the *wow* factor then to go deep into details of matters, the idea of immediate shareable experiencing may become more important than learning.
 
-```
-![](media/image1.jpg){width="3.936111111111111in" height="3.936111111111111in"}
-```
+![](Images/18_FutureMemory/18_FutureMemory_Image1.jpg)
 
 Recent research claims that creativity and imagination flourish in scarcity, while tend to become absent in abundant mindsets; it also states that young adults have been steadily becoming less creative and imaginative over the last 40 years.
 
