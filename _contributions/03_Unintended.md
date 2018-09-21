@@ -119,10 +119,9 @@ WT-P: Well actually, in Facebook's case, Mark Zuckerberg is essentially dictator
 
 KB: That's a huge responsibility we are trusting an individual with. Frankly, that's a bit terrifying.
 
-```
- \[IMAGE MARKER: Siri Screen II
-(2018) Katriona Beales, oil pastel on cartridge paper, A4\] 
-```
+![](Images/03_UnintendedBias/03_Unintendedbias_Image5.png)
+(2018) Katriona Beales, oil pastel on cartridge paper, A4
+
 
 There's a book by Seb Franklin called *Control*[<sup>10</sup>](#fn10)<a id="fnref10"></a> and basically his thesis is that control is the underlying logic of digitality because everything is about being able to be described in a very specific way in code. In *The Californian Ideology*, way back in 1995, Barbrook and Cameron[<sup>11</sup>](#fn11)<a id="fnref11"></a> identify how the technologies of freedom are turning into machines of dominance. I think this goes back to what you were talking about, in terms of unintended consequences, because a lot of people who were fundamental in setting up a lot of these things in Silicon Valley come from a quite hippy background and value notions of personal freedom and expression. But these networks have grown to be so massive and turned into nexus of power. I wonder what alternatives there are to these tech oligopolies? Very few individuals, almost exclusively white men, have got the power or agency to shape how these systems function?
 
