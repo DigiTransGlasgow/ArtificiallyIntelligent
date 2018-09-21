@@ -51,7 +51,9 @@ Try this for size instead. Perhaps the worship of any foreign deities could be p
 
 Perhaps these subjugations sent a message: We can tolerate the terrible dark leanings of a system provided that they are *our* terrible dark leanings.
 
----
+![](Images/25_Wakefulness/25_Wakefulness_Image1.png)
+Image 1. Bacchanal, Aimé-Jules Dalou, 1879. Given by the daughter of the sculptor Sir Joseph Edgar Boehm. Museum number 434-1896
+© Victoria and Albert Museum, London
 
 All perspectives are partial, surrounded by the dark. Men, as if insane, with fanatical tossings of their bodies, uttering prophesies.
 
