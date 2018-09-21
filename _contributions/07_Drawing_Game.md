@@ -36,9 +36,16 @@ The tool is optimised for use on an iPad or similar tablet, although it will wor
 
 After initial experiments making many different types of drawings the work is focused on a limited number of drawing rules. These have been developed in the evolution of paper drawings and physical sculptural structures. Even describing the rules of construction as it is seen requires experimentation. A set of drawing instructions is very open to interpretation and can create all kinds of varied results.
 
+![](Images/07_DrawingGame/07_DrawingGame_Image1.jpeg)
+Drawing game, Esther Rolinson and Sean Clark.
+
 With the rules to a first shape defined, the drawing machine in the game can be programmed to repeat what Rolinson has produced and respond with an appropriate version according to the rules. This has the potential to become a basic exchange. For this to work it is important that there is a mutual understanding for both parties. We can interpret the notion of understanding at the simple level of being able to analyse a process carried out by something else. An interesting point is that this process leads to the provocation of a question in the other. 'What does this computer know?'.... 'What version of the drawing is being made?'.......'What is the appropriate response?'
 
 Through this process Drawing Game is a ground in which to explore the dialogue between the human and computer, potentially creating a genuine human and computer collaboration. It invites the player (or drawer) to externalise their internal process as they draw out what is in their mind/body and then respond to the computers version. When we codify behaviours it teaches us fundamental things about them. When we see then them generated in the physical world and respond to them we are influenced by an externalised version of our own imagination. It is like playing a game with a basic externalised self.
+
+![](Images/07_DrawingGame/07_Drawinggame_Image2.jpeg) 
+![](Images/07_DrawingGame/07_Drawinggame_Image3.jpeg)
+Drawing game, Esther Rolinson and Sean Clark.
 
 Developing Drawing Game has an archaeological quality of discovery. We might consider that the movements and rhythms are already held inside the drawings and Rolinson's techniques. Drawing Game is a method to expand and study them so they might be redefined as algorithmic behaviours.
 
@@ -53,3 +60,6 @@ In essence 'Revolve' is the simple sensation of the build up and release of ener
 The Drawing Game raises questions about the nature of a conversation between a computer and a human. Rolinson and Clark have deliberately chosen to work with movement and senses rather than spoken language, engaging with fundamental aspects of humanness. As the work develops the quality of the conversation will evolve. Like any communication, for it to be satisfying and stimulating both must 'speak' a common language (in drawing) and have relevant and unpredictable contributions to make. The development of this active exchange might inform the language of human and computer interaction and is a subtle way of observing the internalised qualities of humanness.
 
 The exchange of ideas and skill between Rolinson and Clark fuels the outcome. In both artists works we can see a likeness to living things that change and grow unpredictably. It is the combination of these two very different but related fields of work that creates a rich ground for exploring the connections between humans, sensations, systems and computers.
+
+![](Images/07_DrawingGame/07_Drawinggame_Image2.jpeg) 
+Drawing game, Revolve Prototype, Esther Rolinson and Sean Clark.
