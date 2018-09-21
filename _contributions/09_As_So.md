@@ -6,6 +6,9 @@ layout: default
 # As So
 ## R.A.F. Walker
 
+![](Images/09_ASSO/09_ASSO_Image1.jpg)
+Credit: R.A.F. Walker, 2018
+
 An infant, up to its elbows in primary coloured poster paint. Wild gestures smeared on broad sheets. The birth of meaning through mark making begins afresh in every intelligent entity.
 
 An altcoin trader uses an internet squawkbox to ruminate on the effect AlphaGo would have on crypto markets if unleashed. Altcoins - alternative blockchain projects to Bitcoin - attempt to implant Bitcoin\'s consensus-through-adversarial-market model into different social and industrial processes, from supply chains to collectable, mateable, digital cats. There are thousands of altcoins - some are currencies, some are utility tokens, some are security tokens - all are tradable, all the time, everywhere.
