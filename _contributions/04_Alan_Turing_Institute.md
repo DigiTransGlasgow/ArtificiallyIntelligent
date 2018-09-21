@@ -19,9 +19,9 @@ As a result, the benefits offered by AI technologies may not be fully realised b
 
 Therefore, the possibility of social progress represented by the opportunities mentioned above must be weighed against the risk that malicious manipulation will be enabled or enhanced by AI. We summarise these opportunities, the equivalent risks, and the opportunity cost of *underusing* AI in Figure A below. In the remainder of this paper we offer a more detailed explanation of each.
 
-```
-![](media/image1.png){width="6.263888888888889in" height="2.9791666666666665in"}
-```
+
+![](Images/04_AlanTuringInstitute/04_AlanTuringInstitute_Image1.jpg)
+
 
 ### 1. Who we can become: enabling human self realisation, without devaluing human skills
 
