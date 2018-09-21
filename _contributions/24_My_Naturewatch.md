@@ -15,9 +15,8 @@ We've explored a number of possibilities, some more practical and others more pl
 
 My Naturewatch Camera uses computer vision software that we've developed in our studio to 'see' when something is moving and take its picture. Set out in the garden with a bit of bait, it can capture quite striking portraits of the birds and animals that live around us --- often quite intimate or even funny.
 
-```
---- *insert "1 mynwcamera.jpg" about here*
-```
+![](Images/24_Naturewatch/24_Naturewatch_Image1.jpg)
+Image 1. Fox, Leila Rascaniere.
 
 The basic version takes only about an hour or so to make and is very 'tech light' (e.g., no soldering!). In fact, most time is spent rigging up a simple waterproof 'housing' from household items like food storage containers or empty plastic bottles. There's also an infrared version that takes nighttime pictures, which is only a little more challenging to make.
 
@@ -25,9 +24,7 @@ My Naturewatch Camera featured on an episode of BBC's amazing Springwatch 2018, 
 
 What we do know is that hundreds of amazing photos of hedgehogs, foxes, squirrels, chiffchaffs, parrots, magpies, robins and wood pigeons have appeared on social media and our own website forum, and that more people are signing up every day.
 
-```
--- *insert wildlife photos through rest of the article*
-```
+![](Images/24_Naturewatch/24_Naturewatch_Image4.jpg)
 
 Moreover, it's clear that while some makers are remarkably sophisticated, making elaborate enclosures, adding new controls and changing the software, for a large number of people building a My Naturewatch Camera is their first foray into digital making.
 
@@ -37,9 +34,11 @@ It has been tremendously exciting to see our design promote engagement with the 
 
 We've also been working on a RFID-reading bird feeder ('freader') that can track birds fitted with special RFID rings.
 
-```
---- *insert "2 freader.jpg" about here*
-```
+![](Images/24_Naturewatch/24_Naturewatch_Image2.jpg)
+Image 2. mynwcamera
+
+![](Images/24_Naturewatch/24_Naturewatch_Image3.jpg)
+Image 3. Feader.
 
 Ornithologists are really excited about this one. Normal bird rings require that birds be recaptured to be read, but RFID rings can be read automatically --- they use the same technology as contactless payment or transport cards. This is a lot better for ornithologists and birds alike.
 
