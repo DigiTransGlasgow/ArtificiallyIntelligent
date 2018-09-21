@@ -74,10 +74,10 @@ WT-P: Are we causing mass poverty by denying people an ability to make any money
 
 KB: The people who have the power to make these decisions are people with a lot of money who will be cushioned from a lot of the consequences. There seems to be a lot of unintended consequences, but actually if some of these things were thought about critically in advance, then you can see that they are inevitable. Hito Steyerl terms this "artificial stupidity."[<sup>4</sup>](#fn4)<a id="fnref4"></a> So this comes to questions about trust, and about how that operates in relation to various different AI systems.
 
-```
-\[IMAGE MARKER: 'At the moment' (2018) Katriona Beales, design for silk
-print\]
-```
+
+![](Images/03_UnintendedBias/03_Unintendedbias_Image3.png)
+(2018) Katriona Beales, design for silk
+
 
 WT-P: I think, to some extent, trust isn't something that you choose to do, it's something that happens.
 
@@ -91,13 +91,11 @@ WT-P: In terms of Facebook - I don't think there was anything evil about the int
 
 KB: My previous body of work, 'Are We All Addicts Now?'[<sup>6</sup>](#fn6)<a id="fnref6"></a> was about the way that attention is manipulated online, and the way that most platforms are designed to ensure people spend as much time as possible there to maximise advertising budgets. 
 
-```
-\[IMAGE MARKER: Detail of Working
-Table IV (2017) Katriona Beales, glass sculpture with embedded raspberry
+![](Images/03_UnintendedBias/03_Unintendedbias_Image4.png)
+Detail of Working Table IV (2017) Katriona Beales, glass sculpture with embedded raspberry
 pi screen displaying moving image work placed on a black glass trapezoid
 table, dimensions variable, shown as part of \'Are We All Addicts Now?\'
-at Furtherfield 2017. Photo:​​ Katriona Beales.\] 
-```
+at Furtherfield 2017. Photo: Katriona Beales.
 
 This leads to these addictive technologies which then actually people (like myself) unsurprisingly find very difficult to regulate. In the 1950s BF Skinner (one of the founders of Behavioural Psychology) came up with the principle of variable reward, a principle utilised in casinos and now in online platforms where the unpredictability of content creates these dopamine cycles -- a chemically addictive sort of feedback loop. I just wonder what some of the subjectivities that are being created when swathes of people are treated as 'users'?
 
