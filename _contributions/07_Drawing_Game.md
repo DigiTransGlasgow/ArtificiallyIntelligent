@@ -61,5 +61,5 @@ The Drawing Game raises questions about the nature of a conversation between a c
 
 The exchange of ideas and skill between Rolinson and Clark fuels the outcome. In both artists works we can see a likeness to living things that change and grow unpredictably. It is the combination of these two very different but related fields of work that creates a rich ground for exploring the connections between humans, sensations, systems and computers.
 
-![](Images/07_DrawingGame/07_Drawinggame_Image2.jpeg) 
+![](Images/07_DrawingGame/07_Drawinggame_Image4.jpeg) 
 Drawing game, Revolve Prototype, Esther Rolinson and Sean Clark.
