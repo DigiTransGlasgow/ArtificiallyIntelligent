@@ -13,3 +13,9 @@ Are the possibilities of comprehension and miscomprehension all that different f
 The conversation which shifts between the logical, to the enigmatic to the frankly incomprehensible, produces constant frissons of surprise and in the end a profound sense of displacement from one’s own settled perceptual self. 
 
 Work description courtesy Karthik Kalyanaraman
+
+![](Images/10_ClosedLoop/10_ClosedLopp_Image1.png)
+
+![](Images/10_ClosedLoop/10_ClosedLoop_Image2.png)
+
+![](Images/10_ClosedLoop/10_ClosedLoop_Image3.png)
