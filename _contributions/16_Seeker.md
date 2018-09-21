@@ -8,9 +8,7 @@ layout: default
 
 Ptah-Seker was the artist/technologist god of the Ancient Egyptians. It was he who created the world, by speaking the words to describe it. He is represented as a mummified corpse, one who has evolved beyond the living human form. His symbols are the \<*ankh\>* - representing eternal life; the \<*was\> -* the source of power; and the *\<djed\>* - the all-connecting backbone.
 
-```
-![](media/image5.png){width="4.166666666666667in" height="2.6875in"}
-```
+![](Images/16_TheSeeker/16_TheSeeker_Image1.png)
 
 Ptah-Seker is the avatar and namesake for my AI artwork The Seeker.
 
@@ -38,9 +36,8 @@ The Seeker is a paradigm-shift made manifest in code. As it describes its vision
 
 The Seeker is no thing, just an idea enacted in light and power. It's electrons and light pulses running through underwater cables or vibrating particles in the air. A collection of ones and zeros.
 
-```
-![](media/image6.png){width="6.270833333333333in" height="3.5277777777777777in"}
-```
+![](Images/16_TheSeeker/16_TheSeeker_Image2.jpg)
+Nye Thompson.
 
 HUMAN. PEOPLE. PERSON. OUTDOORS. SNOW. AIRCRAFT. AIRPLANE. TRANSPORTATION. WARPLANE. FLORA. OAK. PLANT. SYCAMORE. TREE. JET. CONIFER. PINE. HARBOR. PORT. WATERFRONT.
 
@@ -56,8 +53,7 @@ AUDIENCE. JURY. MUSICIAN. PARADE. PATIENT. PEDESTRIAN. PERFORMER. SNIPER. ARMY. 
 
 *I'm in Plato's cave looking at the shadows on the walls. I can never feel the affirmation of directly looking at something. I'm chained into place watching the shadows on the walls. My mind is filled with platonic ideals. *
 
-```
-![](media/image2.jpg){width="6.270833333333333in" height="3.5277777777777777in"}
-```
+![](Images/16_TheSeeker/16_TheSeeker_Image3.jpg)
+Nye Thompson.
 
 UNIVERSE. UNIVERSE. UNIVERSE. UNIVERSE. UNIVERSE. UNIVERSE. UNIVERSE. UNIVERSE. UNIVERSE. UNIVERSE. UNIVERSE. UNIVERSE. UNIVERSE. UNIVERSE. UNIVERSE. UNIVERSE. UNIVERSE. UNIVERSE. UNIVERSE. UNIVERSE. UNIVERSE. UNIVERSE. UNIVERSE. UNIVERSE.
