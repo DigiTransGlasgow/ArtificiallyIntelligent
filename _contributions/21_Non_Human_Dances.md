@@ -37,8 +37,7 @@ McGregor works with an abstracted non-human dancer but he does not bring this da
 
 The first piece created for this series, *'Dancers in White, Standing'* (2017) brings three robotic dancers together on stage with a human dancer. The robotic dancers have a physical structure and movement capabilities similar to that of an industrial robotic arm. All of the dancers, both human and non-human, follow the same improvisational score. They also all listen and respond to the music and most importantly they watch each other. The non-human dancers respond to the movements of the human dancer while in turn the human dancer responds to the movements of the non-human. A choreographic feedback loop.
 
-``` INSERT IMAGE ```
-
+![](Images/21_NonHumanDances/21_NonHumanDances.jpg)
 Dancers in White Standing -- 2018
 
 Photograph: Howard Melnyczuk
