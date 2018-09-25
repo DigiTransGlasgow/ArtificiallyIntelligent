@@ -3,10 +3,10 @@
 
 @import "{{ site.theme }}";
 
-h1 a:visited {
+#project_title a:visited {
         color: white!important;
 }
 
-h1 a:link {
+#project_title a:link {
         color: white!important;
 }
