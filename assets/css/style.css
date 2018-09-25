@@ -3,6 +3,10 @@
 
 @import "{{ site.theme }}";
 
-h1 a {
+h1 a:visited {
+        color: white!important;
+}
+
+h1 a:link {
         color: white!important;
 }
