@@ -1,5 +1,5 @@
 ---
-title: artificial intelligence: from frankenstein to frank
+title: 'artificial intelligence: from frankenstein to frank'
 layout: default
 ---
 
@@ -8,7 +8,7 @@ layout: default
 ## By Cecilie Waagner Falkenstrøm
 **Royal College of Art, London**
 
-### 1. INTRODUCTION 
+### 1. INTRODUCTION
 
 Developing in an ever-intensifying pace the technical field of artificial intelligence technology opens up for fundamentally new and inexperienced aspects of human life. Machine intelligence, i.e. the pioneering neural computer algorithms that mimic the human brain, rapidly trickles down into our lives in the form of self-driving cars, robotic stock trading and personalised assistants. Even though major innovations within the field of artificial intelligence technology have been achieved in the past years, the very actualization of an artificial intelligence, in the form of a superior post-human being, remains a future possibility beyond our current capability. However, given the rate of advancements in the technical field, it may simply be a question of time before superior artificial intelligence becomes a reality. Such a development begs a range of important questions: What are the existential dilemmas that artificial intelligence pose upon the human species? Is it likely to wipe us out or will it enhance our human capacity? Will it have real emotions enabling us to develop an emotional relation to it or will it simulate emotions with the aim of manipulating us into following it?
 
