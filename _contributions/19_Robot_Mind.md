@@ -1,15 +1,15 @@
---- 
+---
 title: A robot in my mind
-layout: default 
+layout: default
 ---
 
 # "A robot in my mind" - A review of MOTHR the AI conscience
 ## By Ben Neal
 
 **Freelance Creative Technologist at Psicon Lab
-[(www.psiconlab.co.uk)](www.psiconlab.co.uk) and**
+[(www.psiconlab.co.uk)](http://www.psiconlab.co.uk){:target="_blank"} and**
 **Digital Producer at BOM
-([www.bom.org.uk](http://www.bom.org.uk))**
+([www.bom.org.uk](http://www.bom.org.uk){:target="_blank"})**
 
 ### 1.
 
