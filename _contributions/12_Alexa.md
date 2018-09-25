@@ -12,7 +12,7 @@ Increasingly, our engagement with artificial intelligence will be through the ar
 
 As a recent article in *The Atlantic* by Ian Bogost observed:
 
-> If you survey the major voice assistants on the market---Alexa, > Apple's Siri, Microsoft's Cortana, and Google Home's unnamed > character---three out of four have female-sounding names by default, > and their voices sound female, too. Even before the user addresses > Alexa, the robot has already established itself as an obedient female > presence, eager to carry out tasks and requests on its user's behalf.
+> If you survey the major voice assistants on the market---Alexa, Apple's Siri, Microsoft's Cortana, and Google Home's unnamed character---three out of four have female-sounding names by default, and their voices sound female, too. Even before the user addresses Alexa, the robot has already established itself as an obedient female presence, eager to carry out tasks and requests on its user's behalf.
 
 Siri offers the possibility of customising to communicate in languages including Chinese and Arabic. Siri can be a man. But there are still limitations. We cannot set up Siri to be a Jamaican man or a Haitian woman. Maybe this will change in the future, but the question still arises - why is our default view of artificially created intelligence like Siri or Alexa?
 
