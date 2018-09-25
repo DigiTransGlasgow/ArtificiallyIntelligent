@@ -1,1 +1,12 @@
+baseurl: "/ArtificiallyIntelligent"
+show_downloads: true
+
+collections:
+        contributions:
+                output: true
+                defaults:
+                        values:
+                                layout: default
+
+
 theme: jekyll-theme-slate
