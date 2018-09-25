@@ -1,6 +1,6 @@
---- 
+---
 title: my naturewatch
-layout: default 
+layout: default
 ---
 
 # My Naturewatch
@@ -52,6 +52,6 @@ Once the freader designs are finalised, however, we're hoping more ornithologist
 
 #### An ongoing project
 
-Instructions for building My Naturewatch Cameras are on our website [www.mynaturewatch.net](http://www.mynaturewatch.n) so that anybody can make their own. We'd love to see photos people get with their My Naturewatch Cameras, so please share them and use \#mynaturewatch on social media.
+Instructions for building My Naturewatch Cameras are on our website [www.mynaturewatch.net](http://www.mynaturewatch.net) so that anybody can make their own. We'd love to see photos people get with their My Naturewatch Cameras, so please share them and use \#mynaturewatch on social media.
 
 The project isn't done yet, either, so watch the site for news and new designs!
